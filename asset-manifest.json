@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.61997a24.css",
-    "main.js": "/static/js/main.89798915.js",
+    "main.css": "/static/css/main.24be35bb.css",
+    "main.js": "/static/js/main.f7f84c19.js",
     "static/js/787.78ca4a4d.chunk.js": "/static/js/787.78ca4a4d.chunk.js",
     "static/media/videoplayback.mp4": "/static/media/videoplayback.f8fa457ece9eb7b676bd.mp4",
     "static/media/background.png": "/static/media/background.2707fc69f160d802bb1e.png",
@@ -15,6 +15,7 @@
     "static/media/AvenirNext-UltraLightItalic.woff": "/static/media/AvenirNext-UltraLightItalic.2d119ca32219b6bc9dfa.woff",
     "static/media/AvenirNext-DemiBold.woff": "/static/media/AvenirNext-DemiBold.3e4064119316eb84757f.woff",
     "static/media/AvenirNext-UltraLight.woff": "/static/media/AvenirNext-UltraLight.e306264f41db7fc45e4e.woff",
+    "static/media/luda.jpeg": "/static/media/luda.cbe03f459d5615f675a8.jpeg",
     "static/media/AvenirNext-DemiBoldItalic.woff2": "/static/media/AvenirNext-DemiBoldItalic.254d58270c5b86096e61.woff2",
     "static/media/AvenirNext-MediumItalic.woff2": "/static/media/AvenirNext-MediumItalic.d252f1e99c11b9072c73.woff2",
     "static/media/AvenirNext-Regular.woff2": "/static/media/AvenirNext-Regular.f33947353d78e5d89252.woff2",
@@ -30,12 +31,12 @@
     "static/media/AvenirNext-Heavy.woff2": "/static/media/AvenirNext-Heavy.cee88b3657cbd56a6e16.woff2",
     "static/media/AvenirNext-HeavyItalic.woff2": "/static/media/AvenirNext-HeavyItalic.43da13e82fcd5d24ac59.woff2",
     "index.html": "/index.html",
-    "main.61997a24.css.map": "/static/css/main.61997a24.css.map",
-    "main.89798915.js.map": "/static/js/main.89798915.js.map",
+    "main.24be35bb.css.map": "/static/css/main.24be35bb.css.map",
+    "main.f7f84c19.js.map": "/static/js/main.f7f84c19.js.map",
     "787.78ca4a4d.chunk.js.map": "/static/js/787.78ca4a4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61997a24.css",
-    "static/js/main.89798915.js"
+    "static/css/main.24be35bb.css",
+    "static/js/main.f7f84c19.js"
   ]
 }
